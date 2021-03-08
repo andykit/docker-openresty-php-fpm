@@ -6,7 +6,7 @@ Docker Image packaging for PHP & OpenResty
 
 ```bash
 openresty/openresty:alpine
-php:7.2.6-fpm-alpine
+php:7.4.16-fpm-alpine
 ```
 
 #### 运行 Run
